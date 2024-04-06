@@ -1,3 +1,5 @@
+[magi.jpg]! (./magi.jpg)
+
 # about  
 **$magi is a new memecoin on the sol network** 
 magi is a bad drawing of charlotte from madoka magica lol
