@@ -92,7 +92,15 @@ body {
 .tag-list {
     list-style: none;
     letter-spacing: 3px;
-    text-align: left;
+    text-align: center;
+}
+
+.tag {
+    margin-bottom: 20px;
+}
+
+.tag:hover {
+    opacity: 0.3;
 }
 
 .hand-drawn-1 {
