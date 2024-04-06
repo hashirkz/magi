@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="magi coin on sol">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>magi.ink</title>
+
+        <link rel="stylesheet" href="/css/grape_juice.css">
+        <link rel="icon" href="/svg/magi.svg">
+    </head>
+    <body>
+        <div class="container">
+            <a href="./" id="name">$magi</a>
+            <div id="magi">
+                <div class="card-container">
+                    <img src="/svg/charlotte_1.svg" alt="charlotte1" class="hand-drawn-1">
+                    <img src="/svg/charlotte_2.svg" alt="charlotte2" class="hand-drawn-2">
+                </div>
+            </div>
+
+            <ul class="tag-list">
+                <li class="tag">
+                    <a href="https://twitter.com/magi_on_sol">twt</a>
+                </li>
+                <li class="tag">
+                    <p>ca: *put ca</p>
+                </li>
+            </ul>
+            <!-- <ul class="navbar">
+                <li class="social">
+                    <a href="https://github.com/hashirkz">
+                        <div class="card-container">
+                            <img class="hand-drawn-1" src="./icons/github_1.svg" alt="github">
+                            <img class="hand-drawn-2" src="./icons/github_2.svg" alt="github">
+                        </div>
+                    </a>
+                    <p class="hidden-subtitle">github</p>
+                </li>
+            </ul> -->
+
+        </div>
+
+        <script defer>
+            // selects social names and items
+            // let navbar_items = document.querySelectorAll(".social");
+            // let navbar_names = document.querySelectorAll(".hidden-subtitle");
+            
+            let _name = document.querySelector("#name");
+            
+            _name.addEventListener("mouseover",
+                () => {
+                    _name.textContent = "on sol";
+            
+                });
+            
+            _name.addEventListener("mouseout",
+                () => {
+                    _name.textContent = "$magi";
+            
+                });
+            
+            // adds hover effect for social icons
+            navbar_items.forEach((social, i) => {
+                social.addEventListener("mouseover", () => {
+                    navbar_names[i].style.visibility = "visible";
+                });
+                
+                social.addEventListener("mouseout", () =>{
+                    navbar_names[i].style.visibility = "hidden";
+                });
+            });
+        </script>
+
+        </script>
+    </body>
+</html>

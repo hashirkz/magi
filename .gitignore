@@ -1,0 +1,6 @@
+__pycache__
+__old__
+.env
+.secret
+.vscode
+.dist
