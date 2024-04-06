@@ -4,10 +4,10 @@
 **$magi is a new memecoin on the sol network**   
 magi is a bad drawing of charlotte from madoka magica lol  
 
-[magi.ink](https://magi.ink)
-[pump.fun](https://www.pump.fun/AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3)
-[my pump.fun dev profile](https://www.pump.fun/profile/hampter)
-sol ca: AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3
+[magi.ink](https://magi.ink)  
+[pump.fun](https://www.pump.fun/AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3)  
+[my pump.fun dev profile](https://www.pump.fun/profile/hampter)  
+sol ca: AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3  
 
 ## stats
 * king of the hill on launch **most popular token on pump.fun**
