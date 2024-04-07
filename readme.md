@@ -9,11 +9,9 @@ magi is a bad drawing of charlotte from madoka magica lol
 [magi.ink](https://magi.ink)   
 [pump.fun](https://www.pump.fun/AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3)  
 [jup.ag](https://jup.ag/swap/AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3-SOL)  
-sol ca: AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3    
+[hampter my pump.fun dev profile](https://www.pump.fun/profile/hampter)     
+sol ca: AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3        
 
-
-
-<img src="koh.png" alt="koh.png" width="300px"/>   
 
 ### stats  
 * crowned king of the hill KOH on pump.fun   
@@ -21,7 +19,6 @@ sol ca: AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3
 * all time high 0.00010061   usd  
 * all time low 0.0000000377  usd  
 
-[my pump.fun dev profile](https://www.pump.fun/profile/hampter)  
-### pump.fun $magi dev
-<img src="magi_dev.png" alt="pump.fun magi dev" width="500px"/>
+![koh](/koh.png)  
+![hampter dev](/hampter.png)   
 
