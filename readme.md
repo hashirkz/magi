@@ -7,15 +7,21 @@ magi is a bad drawing of charlotte from madoka magica lol
 
 ## links
 [magi.ink](https://magi.ink)   
-buy at: [pump.fun](https://www.pump.fun/AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3)    
+[pump.fun](https://www.pump.fun/AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3)  
+[jup.ag](https://jup.ag/swap/AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3-SOL)  
 sol ca: AZ1akwQWtMEJEhhon21AFjhQYSLtJnuYpBxBZT6QuKR3    
 
-## stats
-* king of the hill on launch **most popular token on pump.fun**
-* peak 30k mkt cap
-* all time high 0.0000001245 usd
-* all time low 0.0000000377  usd
+
+
+<img src="koh.png" alt="koh.png" width="300px"/>   
+
+### stats  
+* crowned king of the hill KOH on pump.fun   
+* seeded on raydium 80k mkt cap lp burned
+* all time high 0.00010061   usd  
+* all time low 0.0000000377  usd  
 
 [my pump.fun dev profile](https://www.pump.fun/profile/hampter)  
 ### pump.fun $magi dev
 <img src="magi_dev.png" alt="pump.fun magi dev" width="500px"/>
+
